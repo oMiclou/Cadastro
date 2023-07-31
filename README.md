@@ -1,1 +1,3 @@
 # Cadastro
+Este repositório faz parte de um curso de python no qual eu participei
+É um programa automatizado para cadastrar produtos em um site, fazendo todo processo desde a abertura do navegador até o login e então o cadastro do produto de forma totalmente automatizada...
