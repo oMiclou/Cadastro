@@ -1,8 +1,3 @@
-#Entrar no sistema
-#Fazer login
-#Importar base de produtos
-#Cadastrar um produto
-#Repetir o processo
 
 import pyautogui as pa
 import pandas as pd
